@@ -11,8 +11,8 @@ interesting.
 
 According to
 [Stackoverflow](https://insights.stackoverflow.com/survey/2018/),
-PostgreSQL is the third most popular database for developers and the
-second most loved (behind Redis) and the third most wanted (behind
+PostgreSQL is the third most popular database for developers, the
+second most loved (behind Redis), and the third most wanted (behind
 MongoDB and Elasticsearch). Interestingly, Oracle shows up as the second
 most dreaded database.
 
