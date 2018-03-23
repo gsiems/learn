@@ -20,6 +20,8 @@ second most loved (behind Redis), and the third most wanted (behind
 MongoDB and Elasticsearch). Interestingly, Oracle shows up as the second
 most dreaded database.
 
+----
+
 ### DB-Engines
 
 According to [db-engines.com](https://db-engines.com/en/ranking),
@@ -36,6 +38,8 @@ database terms).
 
 ![db-engines.com table](db-engines_2018-03_table.png)
 
+----
+
 ### Coding VC
 
 This is interesting in that [Coding
@@ -48,6 +52,8 @@ startup).
 
 ![codingvc.com graph](codingvc_2014-08_graph.png)
 
+----
+
 ### Hacker News
 
 Looking at the hiring trend data at
@@ -55,6 +61,8 @@ Looking at the hiring trend data at
 the future also looks pretty bright for PostgreSQL.
 
 ![hntrends.com graph](hntrends-2018-02.png)
+
+----
 
 ### Links
 
