@@ -9,7 +9,7 @@
  * Extensible.
  * Reliable.
  * It's a rather fun (subjective, I know) database.
- * It appears to have some serious momentum going for it on the [popularity.md](popularity front)
+ * It appears to have some serious momentum going for it on the [popularity front](popularity.md)
  * ...
 
 ## Tutorials
