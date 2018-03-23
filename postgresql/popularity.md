@@ -56,3 +56,16 @@ the future also looks pretty bright for PostgreSQL.
 
 ![hntrends.com graph](hntrends-2018-02.png)
 
+### Links
+
+ * https://codingvc.com/which-technologies-do-startups-use-an-exploration-of-angellist-data
+ * https://db-engines.com/en/ranking
+ * https://insights.stackoverflow.com/survey/2018/
+ * https://www.bloomberg.com/news/articles/2015-06-11/oracle-sales-eroded-as-startups-embrace-souped-up-free-software
+ * https://www.forbes.com/sites/benkerschberg/2016/03/08/how-postgres-and-open-source-are-disrupting-the-market-for-database-management-systems/
+ * https://www.hntrends.com/2018/feb-status-quo-reigns-tech.html?compare1=Postgresql&compare2=Oracle&compare3=MySQL&compare4=SQL+Server
+ * https://www.infoworld.com/article/2916057/open-source-software/open-source-threatens-to-eat-the-database-market.html
+ * https://www.infoworld.com/article/2928610/database/why-your-next-database-will-be-open-source.html?nsdr=true
+ * https://www.infoworld.com/article/3252244/database/oracles-cloud-bravado-masks-its-database-despair.html
+ * https://www.infoworld.com/article/3261571/database/how-postgresql-just-might-replace-your-oracle-database.html
+ * https://www.techrepublic.com/article/oracles-biggest-database-foe-could-it-be-postgres/
