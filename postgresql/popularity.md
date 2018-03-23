@@ -2,6 +2,10 @@
 
 ## Popularity
 
+While picking a technology shouldn't depend on the result of any
+popularity contest there is some benefit to knowing whether a
+technology has been/is being adopted by others (or not).
+
 Given that any attempt to quantify the popularity of anything IT
 related, and that any results published along those lines should be
 taken with a suitable sized grain of salt, the results can still be
@@ -31,6 +35,18 @@ database terms).
 ![db-engines.com graph](db-engines_2018-03_graph.png)
 
 ![db-engines.com table](db-engines_2018-03_table.png)
+
+### Coding VC
+
+This is interesting in that [Coding
+VC](https://codingvc.com/which-technologies-do-startups-use-an-exploration-of-angellist-data)
+attempts to determine/show the technology stack being used by startups.
+Of additional interest (to me at least) is the ratio of
+Okay-to-Good-to-Great startups compared to MySQL and MS SQL Server (not
+known is how an ok startup is distinguished from a good or great
+startup).
+
+![codingvc.com graph](codingvc_2014-08_graph.png)
 
 ### Hacker News
 
