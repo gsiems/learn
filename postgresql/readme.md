@@ -18,9 +18,9 @@
  * https://www.postgresql.org/docs/current/static/tutorial.html
  * http://www.postgresqltutorial.com/
 
-
 ## Training
 
+ * TBD
 
 ## Documentation and books
 
