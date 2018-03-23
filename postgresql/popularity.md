@@ -20,7 +20,7 @@ most dreaded database.
 
 According to [db-engines.com](https://db-engines.com/en/ranking),
 PostgreSQL is the 4th most popular database behind Oracle, MySQL, and
-Mycrosoft SQL Server. However, looking at their data, PostgreSQL is
+Microsoft SQL Server. However, looking at their data, PostgreSQL is
 consistently (and reasonably rapidly) gaining ground while the top
 three are slowly losing ground. If the trend lines are an accurate
 indication, and the current trend continues, then it isn't unreasonable
