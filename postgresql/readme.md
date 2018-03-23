@@ -5,8 +5,3 @@
 ## Tutorials
 
 ## Training
-
-## Monitoring
-
-## Securing
-
