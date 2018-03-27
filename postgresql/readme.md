@@ -11,7 +11,8 @@
  * [Economical/good ROI](https://www.enterprisedb.com/resources/white-papers/economic-and-business-advantages-edb-postgres-database-solutions)
  * It's a rather fun (subjective, I know) database.
  * It appears to have some serious [momentum going for it](popularity.md).
- * ...
+ * It has [cool things](postgresql-rocks.md)
+ * It has [issues](postgresql-sucks.md) (o.k. that would be reasons not to use it)
 
 ## How/where to learn PostgreSQL
 
@@ -44,3 +45,7 @@ list of reasonably up-to-date good quality resources.
  * https://www.postgresql.org/docs/books/ -- A list of what appears to
     be almost every PostgreSQL book ever written.
 
+### Other
+
+ * [Monitoring](monitoring.md)
+ * [Securing](securing.md)
