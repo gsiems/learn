@@ -26,16 +26,21 @@ list of reasonably up-to-date good quality resources.
     is the official tutorial for the current version of PostgreSQL.
 
  * http://www.postgresqltutorial.com/ -- "Learn PostgreSQL from Scratch"
-    (See also http://www.mysqltutorial.org/ and http://www.sqlitetutorial.net/)
+    (See also http://www.mysqltutorial.org/ and
+    http://www.sqlitetutorial.net/ for MySQL and SQLite because knowing
+    more than one database is "a good thing".)
 
  * http://www.sqltutorial.org/ -- Learn SQL. Covers the standard syntax.
 
  * https://pgexercises.com/ -- Learn SQL ala PostgreSQL by working
-    through the various excercises provided. Web based so no local
+    through the various exercises provided. Web based so no local
     PostgreSQL installation is needed.
 
  * https://github.com/Abstrct/Schemaverse -- Learn PostgreSQL by
     playing a space-based strategy game.
+
+ * https://www.youtube.com/watch?v=CkjQSkWl0F0&list=PLFRIKEguV54bgwAcgFiOs5GMo3q2DhVDj
+    -- PostgreSQL Database Video Tutorials (a little dated but not bad)
 
 ### Documentation and books
 
