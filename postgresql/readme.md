@@ -42,6 +42,14 @@ list of reasonably up-to-date good quality resources.
  * https://www.youtube.com/watch?v=CkjQSkWl0F0&list=PLFRIKEguV54bgwAcgFiOs5GMo3q2DhVDj
     -- PostgreSQL Database Video Tutorials (a little dated but not bad)
 
+ * https://www.otg-nc.com/postgresql -- Highly recommended. I took
+    their PostgreSQL Administration course in 2009 and thought the
+    course was quite good.
+
+ * https://www.enterprisedb.com/training/training-and-certification
+    -- Have not looked at (yet) but enterprisedb does have a pretty
+    good reputation.
+
 ### Documentation and books
 
  * https://www.postgresql.org/docs/current/static/index.html -- The
