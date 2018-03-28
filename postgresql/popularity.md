@@ -49,9 +49,9 @@ This is interesting in that
 attempts to determine/show the technology stack being used by startups.
 
 That open source databases dominate the startup scene is hardly
-suprising but what is most interesting (to me at least) is the ratio of
+surprising but what is most interesting (to me at least) is the ratio of
 Okay-to-Good-to-Great startups compared to MySQL and MS SQL Server (not
-known is how an ok startup is distinguished from a good or great
+known is how an okay startup is distinguished from a good or great
 startup).
 
 ![codingvc.com graph](codingvc_2014-08_graph.png)
@@ -70,14 +70,14 @@ the future also looks pretty bright for PostgreSQL.
 
 ### Youtube / Duck-Duck-Go
 
-Searching youtube for the keywords "migrate oracle postgresql mysql
-sqlserver" and parsing the titles of the results of the first several
+Searching youtube for the keywords 'migrate oracle postgresql mysql
+"sql server"' and parsing the titles of the results of the first several
 pages to determine how many hits can be interpreted as
 "migrate data or database from x to y" resulted in the following:
 
- | From \\ To   | MS Sql | MySQL | Oracle | PostgreSQL | Total "from" |
+ | From \\ To   | MS SQL | MySQL | Oracle | PostgreSQL | Total "from" |
  | ------------ | ------ | ----- | ------ | ---------- | ------------ |
- | MS Sql       |        | 11    |  6     |  6         | 23           |
+ | MS SQL       |        | 11    |  6     |  6         | 23           |
  | MySQL        | 13     |       |  6     |  3         | 21           |
  | Oracle       | 17     |  6    |        | 11         | 34           |
  | PostgreSQL   |  5     |  3    |  3     |            | 11           |
@@ -89,7 +89,7 @@ account for differences in market share.
 
  |              | to/from ratio |
  | ------------ | ------------- |
- | MS Sql       | 1.5           |
+ | MS SQL       | 1.5           |
  | MySQL        | 1.0           |
  | Oracle       | 0.4           |
  | PostgreSQL   | 1.8           |
@@ -98,16 +98,16 @@ If these ratios are any indication of the real world then that implies
 that there is the most interest in migrating from Oracle (lowest score)
 and the most interest in migrating to PostgreSQL (highest score). The
 MySQL result is interesting in that this implies that there is just as
-much interes in moving from MySQL as there is moving to MySQL.
+much interest in moving from MySQL as there is moving to MySQL.
 
 Repeating the process using the Duck-Duck-Go search engine resulted in
 fewer hits that indicated migration/conversion from/to (but more that
 were either comparing databases or were migrating to a database without
 specifying the database being migrated from).
 
- | From \\ To   | MS Sql | MySQL | Oracle | PostgreSQL | Total "from" |
+ | From \\ To   | MS SQL | MySQL | Oracle | PostgreSQL | Total "from" |
  | ------------ | ------ | ----- | ------ | ---------- | ------------ |
- | MS Sql       |        |  7    |  2     |  9         | 18           |
+ | MS SQL       |        |  7    |  2     |  9         | 18           |
  | MySQL        |  3     |       |  1     |  4         |  8           |
  | Oracle       |  7     |  7    |        | 12         | 26           |
  | PostgreSQL   |  8     |  2    |  2     |            | 12           |
@@ -115,7 +115,7 @@ specifying the database being migrated from).
 
  |              | to/from ratio |
  | ------------ | ------------- |
- | MS Sql       | 1.0           |
+ | MS SQL       | 1.0           |
  | MySQL        | 2.0           |
  | Oracle       | 0.2           |
  | PostgreSQL   | 2.1           |
@@ -128,9 +128,9 @@ migrating to PostgreSQL.
 Attempting this using the Google search engine resulted in even fewer
 usable datapoints.
 
- | From \\ To   | MS Sql | MySQL | Oracle | PostgreSQL | Total "from" |
+ | From \\ To   | MS SQL | MySQL | Oracle | PostgreSQL | Total "from" |
  | ------------ | ------ | ----- | ------ | ---------- | ------------ |
- | MS Sql       |        |       |  1     |  1         |  2           |
+ | MS SQL       |        |       |  1     |  1         |  2           |
  | MySQL        |  1     |       |        |            |  1           |
  | Oracle       |  3     |  1    |        |  2         |  6           |
  | PostgreSQL   |        |       |        |            |  0           |
@@ -138,7 +138,7 @@ usable datapoints.
 
  |              | to/from ratio |
  | ------------ | ------------- |
- | MS Sql       | 2.0           |
+ | MS SQL       | 2.0           |
  | MySQL        | 1.0           |
  | Oracle       | 0.2           |
  | PostgreSQL   | div by zero   |
