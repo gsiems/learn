@@ -44,15 +44,18 @@ database terms).
 
 ### Coding VC
 
-This is interesting in that
+This is interesting in that in an August 2014 article
 [Coding VC](https://codingvc.com/which-technologies-do-startups-use-an-exploration-of-angellist-data)
-attempts to determine/show the technology stack being used by startups.
+attempted to determine/show the technology stack being used by startups.
 
 That open source databases dominate the startup scene is hardly
-surprising but what is most interesting (to me at least) is the ratio of
-Okay-to-Good-to-Great startups compared to MySQL and MS SQL Server (not
-known is how an okay startup is distinguished from a good or great
-startup).
+surprising but what is most interesting (to me at least) is the ratio
+of Okay-to-Good-to-Great startups for PostgreSQL compared to MySQL and
+MS SQL Server (not known is how an okay startup was distinguished from
+a good or great startup). What this appears to imply is that
+good-to-great startups are more likely to use PostgreSQL than MySQL, MS
+SQL Server, or Oracle (this is ignoring MongoDB and Redis as neither of
+them are relational databases).
 
 ![codingvc.com graph](codingvc_2014-08_graph.png)
 
@@ -84,7 +87,7 @@ pages to determine how many hits can be interpreted as
  | Total "to"   | 35     | 20    |  15    | 20         |              |
 
 Taking the ratio of videos for migrating to/from a database engine
-*should* perhaps result in a useful number to compare that *should* also
+*could* perhaps result in a useful number to compare that *could* also
 account for differences in market share.
 
  |              | to/from ratio |
