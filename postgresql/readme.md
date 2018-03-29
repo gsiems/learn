@@ -65,5 +65,4 @@ list of reasonably up-to-date good quality resources.
 
 ### Other
 
- * [Monitoring](monitoring.md)
- * [Securing](securing.md)
+ * [Administering](dba.md)
