@@ -4,9 +4,14 @@
 
 ## Why learn PostgreSQL
 
- * Cross platform.
- * Good compliance with the SQL standard.
- * Extensible.
+ * [Cross platform](https://www.postgresql.org/download/).
+ * Supported by various cloud providers such as
+    [AWS](https://aws.amazon.com/rds/postgresql/),
+    [Azure](https://azure.microsoft.com/en-us/services/postgresql/),
+    [Google](https://cloud.google.com/sql/docs/postgres/) Beta!,
+    [Heroku](https://www.heroku.com/postgres), etc.
+ * [Good conformance to the SQL:2011 standard](https://www.postgresql.org/docs/current/static/features.html).
+ * [Extensible](https://pgxn.org/).
  * Reliable.
  * [Economical/good ROI](https://www.enterprisedb.com/resources/white-papers/economic-and-business-advantages-edb-postgres-database-solutions)
  * It's a rather fun (subjective, I know) database.
