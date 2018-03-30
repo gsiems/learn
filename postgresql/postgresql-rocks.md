@@ -9,16 +9,16 @@ Just in my opinion YOMV (Your Opinion May Vary)
  * Schemas are not users (still looking at you Oracle)
  * Comment on <any object> is ... (*cough* Oracle *cough*)
  * Rename schema/table/column doesn't break views (Orac... oh, never mind)
- * [Foreign data wrappers](https://wiki.postgresql.org/wiki/Foreign_data_wrappers)
- * [Transactional DDL](https://wiki.postgresql.org/wiki/Transactional_DDL_in_PostgreSQL:_A_Competitive_Analysis)
- * [PL/pgSQL, PL/Perl, PL/Python, etc.](https://wiki.postgresql.org/wiki/PL_Matrix)
- * [Range (data) types](https://www.postgresql.org/docs/current/static/rangetypes.html)
  * [Default schema privs for users/roles](https://www.postgresql.org/docs/current/static/sql-alterdefaultprivileges.html)
- * [SQL/JSON](https://obartunov.livejournal.com/200076.html)
- * psql
  * [Extensions](https://pgxn.org/)
+ * [Foreign data wrappers](https://wiki.postgresql.org/wiki/Foreign_data_wrappers)
  * [Functional indexes](https://www.postgresql.org/docs/current/static/indexes-expressional.html)
- * ...
+ * [PL/pgSQL, PL/Perl, PL/Python, etc.](https://wiki.postgresql.org/wiki/PL_Matrix)
+ * [psql](https://www.postgresql.org/docs/current/static/app-psql.html)
+ * [Range (data) types](https://www.postgresql.org/docs/current/static/rangetypes.html)
+ * [SQL/JSON](https://obartunov.livejournal.com/200076.html)
+ * [Transactional DDL](https://wiki.postgresql.org/wiki/Transactional_DDL_in_PostgreSQL:_A_Competitive_Analysis)
+ * [User defined aggregates](https://www.postgresql.org/docs/current/static/xaggr.html)
 
 ## Links
 
@@ -29,6 +29,8 @@ Just in my opinion YOMV (Your Opinion May Vary)
  * https://wiki.postgresql.org/wiki/Foreign_data_wrappers
  * https://wiki.postgresql.org/wiki/PL_Matrix
  * https://wiki.postgresql.org/wiki/Transactional_DDL_in_PostgreSQL:_A_Competitive_Analysis
+ * https://www.postgresql.org/docs/current/static/app-psql.html
  * https://www.postgresql.org/docs/current/static/indexes-expressional.html
  * https://www.postgresql.org/docs/current/static/rangetypes.html
  * https://www.postgresql.org/docs/current/static/sql-alterdefaultprivileges.html
+ * https://www.postgresql.org/docs/current/static/xaggr.html
