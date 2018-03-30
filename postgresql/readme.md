@@ -10,14 +10,15 @@
     [Azure](https://azure.microsoft.com/en-us/services/postgresql/),
     [Google](https://cloud.google.com/sql/docs/postgres/) Beta!,
     [Heroku](https://www.heroku.com/postgres), etc.
- * [Good conformance to the SQL:2011 standard](https://www.postgresql.org/docs/current/static/features.html).
+ * [Conforms well to the SQL:2011 standard](https://www.postgresql.org/docs/current/static/features.html).
  * [Extensible](https://pgxn.org/).
  * Reliable.
- * [Economical/good ROI](https://www.enterprisedb.com/resources/white-papers/economic-and-business-advantages-edb-postgres-database-solutions)
+ * [Economical/has good ROI](https://www.enterprisedb.com/resources/white-papers/economic-and-business-advantages-edb-postgres-database-solutions)
  * It's a rather fun (subjective, I know) database.
  * It appears to have some serious [momentum going for it](popularity.md).
- * It has [cool things](postgresql-rocks.md)
- * It has [issues](postgresql-sucks.md) (o.k. that would be reasons not to use it)
+ * It has lots of [cool features](postgresql-rocks.md).
+ * It still has some [issues](postgresql-sucks.md) (o.k. that would be
+    reasons not to use it-- but it's good to know the downsides also).
 
 ## How/where to learn PostgreSQL
 
