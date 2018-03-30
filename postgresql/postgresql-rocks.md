@@ -7,10 +7,10 @@ Just in my opinion YOMV (Your Opinion May Vary)
  * Recursive CTEs
  * CTEs can also INSERT, UPDATE, DELETE (looking at you Oracle)
  * Schemas are not users (still looking at you Oracle)
- * COMMENT ON <any object> IS '...' (*cough* Oracle *cough*)
- * ALTER [TABLE|SCHEMA|DATABASE|ROLE|...] RENAME TO <new name>
+ * COMMENT ON [TABLE|SCHEMA|DATABASE|ROLE|...] IS '...' (*cough* Oracle *cough*)
+ * ALTER [TABLE|SCHEMA|DATABASE|ROLE|...] RENAME TO *new_name*
  * Rename schema/table/column doesn't break views (Orac... oh, never mind)
- * ALTER [TABLE|VIEW|...] SET SCHEMA <new schema>
+ * ALTER [TABLE|VIEW|...] SET SCHEMA *new_schema*
  * [Default schema privs for users/roles](https://www.postgresql.org/docs/current/static/sql-alterdefaultprivileges.html)
  * Extensions such as:
     * [PostGIS](http://postgis.net/)-- Spatial and Geographic Objects for PostgreSQL
