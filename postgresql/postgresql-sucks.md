@@ -4,9 +4,12 @@
 
 Just in my opinion YOMV (Your Opinion May Vary)
 
- * [CTEs are an optimization fence](https://blog.2ndquadrant.com/postgresql-ctes-are-optimization-fences/)
- * Change column datatype requires drop/create dependent views
- * Upgrades still have pain points
+ * [CTEs are an optimization fence](https://blog.2ndquadrant.com/postgresql-ctes-are-optimization-fences/).
+ * Change column datatype requires drop/re-create of dependent views.
+ * Upgrades still have pain points.
+ * Sometimes, rarely, it would be nice to have synonyms. Although, as
+    much as I've seen them misused and abused maybe it's best not to
+    have them.
 
 ## Links
 
