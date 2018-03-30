@@ -22,8 +22,8 @@
 ## How/where to learn PostgreSQL
 
 The intent is not to create any kind of exhaustive list of questionable
-quality resources or badly date resources but rather to build a small
-list of reasonably up-to-date good quality resources.
+quality resources or badly out-of-date resources but rather to build a
+small list of reasonably up-to-date good quality resources.
 
 ### Tutorials and training
 
@@ -31,9 +31,9 @@ list of reasonably up-to-date good quality resources.
     is the official tutorial for the current version of PostgreSQL.
 
  * http://www.postgresqltutorial.com/ -- "Learn PostgreSQL from Scratch"
-    (See also http://www.mysqltutorial.org/ and
-    http://www.sqlitetutorial.net/ for MySQL and SQLite because knowing
-    more than one database is "a good thing".)
+    (See also http://www.mysqltutorial.org/ for MySQL and
+    http://www.sqlitetutorial.net/ for SQLite because knowing more than
+    one database is "a good thing".)
 
  * http://www.sqltutorial.org/ -- Learn SQL. Covers the standard syntax.
 
@@ -45,7 +45,7 @@ list of reasonably up-to-date good quality resources.
     playing a space-based strategy game.
 
  * https://www.youtube.com/watch?v=CkjQSkWl0F0&list=PLFRIKEguV54bgwAcgFiOs5GMo3q2DhVDj
-    -- PostgreSQL Database Video Tutorials (a little dated but not bad)
+    -- PostgreSQL Database Video Tutorials (a little dated but not bad).
 
  * https://www.otg-nc.com/postgresql -- Highly recommended. I took
     their PostgreSQL Administration course in 2009 and thought the
