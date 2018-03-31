@@ -47,6 +47,7 @@ small list of reasonably up-to-date good quality resources.
 
  * https://www.youtube.com/watch?v=CkjQSkWl0F0&list=PLFRIKEguV54bgwAcgFiOs5GMo3q2DhVDj
     -- PostgreSQL Database Video Tutorials (a little dated but not bad).
+    Notes can be found at https://gist.github.com/mofelee/0c13d9ccb6dd574da9c7
 
  * https://www.otg-nc.com/postgresql -- Highly recommended. I took
     their PostgreSQL Administration course in 2009 and thought the
