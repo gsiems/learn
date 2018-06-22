@@ -67,4 +67,6 @@ small list of reasonably up-to-date good quality resources.
 
 ### Other
 
+ * Dimitri Fontaine has written a nice series on PostgreSQL [data types](https://tapoueh.org/tags/data-types/)
+ * Aggregated blogs can be found at [Planet PostgreSQL](https://planet.postgresql.org/)
  * [Administering](dba.md)
