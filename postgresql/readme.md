@@ -13,7 +13,7 @@
  * [Conforms well to the SQL:2011 standard](https://www.postgresql.org/docs/current/static/features.html).
  * [Extensible](https://pgxn.org/).
  * Reliable.
- * [Economical/has good ROI](https://www.enterprisedb.com/resources/white-papers/economic-and-business-advantages-edb-postgres-database-solutions)
+ * Economical/has good ROI
  * It's a rather fun (subjective, I know) database.
  * It appears to have some serious [momentum going for it](popularity.md).
  * It has lots of [cool features](postgresql-rocks.md).
